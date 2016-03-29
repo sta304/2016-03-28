@@ -79,7 +79,7 @@ The estimated variance for $\hat\mu_{yL}$ is similar in spirit to that of the ra
 
 $$\hat V(\hat\mu_{yL}) = \left(1 - \frac{n}{N}\right)\frac{MSE}{n}$$
 
-For estimating $\tau_y$ multiply both by $N$.
+For estimating $\tau_y$ multiply by $N$ and $N^2$ respectively.
 
 
 
